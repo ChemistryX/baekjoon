@@ -44,6 +44,19 @@
 		767B675927F9CD68007EDB83 /* 8370.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 8370.c; sourceTree = "<group>"; };
 		767B675A27F9D60D007EDB83 /* 8871.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 8871.c; sourceTree = "<group>"; };
 		767B675B27FC1BD1007EDB83 /* 9653.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 9653.c; sourceTree = "<group>"; };
+		767B675C27FDBC64007EDB83 /* 9654.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 9654.c; sourceTree = "<group>"; };
+		767B675D27FDBD24007EDB83 /* 10170.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10170.c; sourceTree = "<group>"; };
+		767B675E27FDBDE3007EDB83 /* 10172.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10172.c; sourceTree = "<group>"; };
+		767B67622801C10A007EDB83 /* 10430.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10430.c; sourceTree = "<group>"; };
+		767B67632801C151007EDB83 /* 10699.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10699.c; sourceTree = "<group>"; };
+		767B67642801C2A0007EDB83 /* 10869.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10869.c; sourceTree = "<group>"; };
+		767B67652801C3C3007EDB83 /* 10926.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10926.c; sourceTree = "<group>"; };
+		767B67662801C468007EDB83 /* 10998.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10998.c; sourceTree = "<group>"; };
+		767B67672801C88F007EDB83 /* 11382.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11382.c; sourceTree = "<group>"; };
+		767B67682801C902007EDB83 /* 11654.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11654.c; sourceTree = "<group>"; };
+		767B67692801C92F007EDB83 /* 11942.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11942.c; sourceTree = "<group>"; };
+		767B676B2801CB8C007EDB83 /* 14645.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14645.c; sourceTree = "<group>"; };
+		767B676C2801DE31007EDB83 /* 14652.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14652.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,13 +89,19 @@
 		767B673E27F9B4AF007EDB83 /* baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				767B676A2801C952007EDB83 /* bronze_v */,
+				767B673F27F9B4AF007EDB83 /* main.c */,
+			);
+			path = baekjoon;
+			sourceTree = "<group>";
+		};
+		767B676A2801C952007EDB83 /* bronze_v */ = {
+			isa = PBXGroup;
+			children = (
 				767B674627F9B4D8007EDB83 /* 1000.c */,
 				767B674827F9B5A5007EDB83 /* 1001.c */,
-				767B674A27F9B5E9007EDB83 /* 2557.c */,
-				767B674B27F9B62F007EDB83 /* 10171.c */,
-				767B674D27F9B678007EDB83 /* 10718.c */,
-				767B673F27F9B4AF007EDB83 /* main.c */,
 				767B674E27F9BBCB007EDB83 /* 2475.c */,
+				767B674A27F9B5E9007EDB83 /* 2557.c */,
 				767B674F27F9BCBD007EDB83 /* 2558.c */,
 				767B675027F9BF13007EDB83 /* 2845.c */,
 				767B675127F9C54B007EDB83 /* 3003.c */,
@@ -96,8 +115,23 @@
 				767B675927F9CD68007EDB83 /* 8370.c */,
 				767B675A27F9D60D007EDB83 /* 8871.c */,
 				767B675B27FC1BD1007EDB83 /* 9653.c */,
+				767B675C27FDBC64007EDB83 /* 9654.c */,
+				767B675D27FDBD24007EDB83 /* 10170.c */,
+				767B674B27F9B62F007EDB83 /* 10171.c */,
+				767B675E27FDBDE3007EDB83 /* 10172.c */,
+				767B67622801C10A007EDB83 /* 10430.c */,
+				767B67632801C151007EDB83 /* 10699.c */,
+				767B674D27F9B678007EDB83 /* 10718.c */,
+				767B67642801C2A0007EDB83 /* 10869.c */,
+				767B67652801C3C3007EDB83 /* 10926.c */,
+				767B67662801C468007EDB83 /* 10998.c */,
+				767B67672801C88F007EDB83 /* 11382.c */,
+				767B67682801C902007EDB83 /* 11654.c */,
+				767B67692801C92F007EDB83 /* 11942.c */,
+				767B676B2801CB8C007EDB83 /* 14645.c */,
+				767B676C2801DE31007EDB83 /* 14652.c */,
 			);
-			path = baekjoon;
+			path = bronze_v;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

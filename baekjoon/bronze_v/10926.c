@@ -2,11 +2,11 @@
 
 int main() {
     
-    int n;
+    char str[50];
     
-    scanf("%d", &n);
+    scanf("%s", &str);
     
-    printf("%d", n * (n - 1));
+    printf("%s??!", str);
     
     return 0;
 }
