@@ -2,11 +2,11 @@
 
 int main() {
     
-    int a, b;
+    int n;
     
-    scanf("%d\n%d", &a, &b);
+    scanf("%d", &n);
     
-    printf("%d", b - a);
+    printf("%d", n - 543);
     
     return 0;
 }
