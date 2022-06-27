@@ -23,6 +23,29 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7608964D285BB4E100323E89 /* 25083.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25083.c; sourceTree = "<group>"; };
+		7608964E285BB5FF00323E89 /* 14681.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14681.c; sourceTree = "<group>"; };
+		7608964F285BB98700323E89 /* 10872.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10872.c; sourceTree = "<group>"; };
+		76089650285BBACE00323E89 /* 15552.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 15552.c; sourceTree = "<group>"; };
+		76089651285BBBAD00323E89 /* 10807.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10807.c; sourceTree = "<group>"; };
+		76089652285BBDFC00323E89 /* 5597.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 5597.c; sourceTree = "<group>"; };
+		76089653285BBF2E00323E89 /* 2738.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2738.c; sourceTree = "<group>"; };
+		76089654285BBFEF00323E89 /* 2743.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2743.c; sourceTree = "<group>"; };
+		76089655285BC17900323E89 /* 2744.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2744.c; sourceTree = "<group>"; };
+		76089656285BC35C00323E89 /* 2754.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2754.c; sourceTree = "<group>"; };
+		76089657285BC48300323E89 /* 9086.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 9086.c; sourceTree = "<group>"; };
+		76089658285BC6CC00323E89 /* 23037.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 23037.c; sourceTree = "<group>"; };
+		76089659285CFFC000323E89 /* 11718.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11718.c; sourceTree = "<group>"; };
+		7608965A285D03A600323E89 /* 10870.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10870.c; sourceTree = "<group>"; };
+		7608965B285D13A800323E89 /* 11655.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11655.c; sourceTree = "<group>"; };
+		7608965C285D19C200323E89 /* 2846.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2846.c; sourceTree = "<group>"; };
+		7608965D285DB1DB00323E89 /* 2441.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2441.c; sourceTree = "<group>"; };
+		7608965E285DBA6000323E89 /* 2442.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2442.c; sourceTree = "<group>"; };
+		7608965F285DBAD900323E89 /* 2443.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2443.c; sourceTree = "<group>"; };
+		76089660285DBB2700323E89 /* 2444.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2444.c; sourceTree = "<group>"; };
+		76089661285DBBCA00323E89 /* 2446.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2446.c; sourceTree = "<group>"; };
+		76089662285DBD6300323E89 /* 2702.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2702.c; sourceTree = "<group>"; };
+		76089663285DD09700323E89 /* 1181.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1181.c; sourceTree = "<group>"; };
 		767B673C27F9B4AF007EDB83 /* baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		767B673F27F9B4AF007EDB83 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		767B674627F9B4D8007EDB83 /* 1000.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1000.c; sourceTree = "<group>"; };
@@ -112,6 +135,7 @@
 		767B67E02807F095007EDB83 /* 1977.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1977.c; sourceTree = "<group>"; };
 		767B67E12807F3C4007EDB83 /* 1924.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1924.c; sourceTree = "<group>"; };
 		767B67F7280AAB18007EDB83 /* 4344.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4344.c; sourceTree = "<group>"; };
+		76861BFE28155071004004ED /* 1550.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1550.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +256,30 @@
 				767B6788280572BB007EDB83 /* 24078.c */,
 				767B673F27F9B4AF007EDB83 /* main.c */,
 				767B67F7280AAB18007EDB83 /* 4344.c */,
+				76861BFE28155071004004ED /* 1550.c */,
+				7608964D285BB4E100323E89 /* 25083.c */,
+				7608964E285BB5FF00323E89 /* 14681.c */,
+				7608964F285BB98700323E89 /* 10872.c */,
+				76089650285BBACE00323E89 /* 15552.c */,
+				76089651285BBBAD00323E89 /* 10807.c */,
+				76089652285BBDFC00323E89 /* 5597.c */,
+				76089653285BBF2E00323E89 /* 2738.c */,
+				76089654285BBFEF00323E89 /* 2743.c */,
+				76089655285BC17900323E89 /* 2744.c */,
+				76089656285BC35C00323E89 /* 2754.c */,
+				76089657285BC48300323E89 /* 9086.c */,
+				76089658285BC6CC00323E89 /* 23037.c */,
+				76089659285CFFC000323E89 /* 11718.c */,
+				7608965A285D03A600323E89 /* 10870.c */,
+				7608965B285D13A800323E89 /* 11655.c */,
+				7608965C285D19C200323E89 /* 2846.c */,
+				7608965D285DB1DB00323E89 /* 2441.c */,
+				7608965E285DBA6000323E89 /* 2442.c */,
+				7608965F285DBAD900323E89 /* 2443.c */,
+				76089660285DBB2700323E89 /* 2444.c */,
+				76089661285DBBCA00323E89 /* 2446.c */,
+				76089662285DBD6300323E89 /* 2702.c */,
+				76089663285DD09700323E89 /* 1181.c */,
 			);
 			path = baekjoon;
 			sourceTree = "<group>";
