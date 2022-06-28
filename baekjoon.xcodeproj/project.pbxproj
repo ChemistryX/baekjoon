@@ -46,6 +46,14 @@
 		76089661285DBBCA00323E89 /* 2446.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2446.c; sourceTree = "<group>"; };
 		76089662285DBD6300323E89 /* 2702.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2702.c; sourceTree = "<group>"; };
 		76089663285DD09700323E89 /* 1181.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1181.c; sourceTree = "<group>"; };
+		76089664286A257200323E89 /* 1427.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1427.c; sourceTree = "<group>"; };
+		76089665286A262A00323E89 /* 11721.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11721.c; sourceTree = "<group>"; };
+		76089666286A295300323E89 /* 10953.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10953.c; sourceTree = "<group>"; };
+		76089667286A2EB800323E89 /* 10808.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10808.c; sourceTree = "<group>"; };
+		76089668286A33C300323E89 /* 8393.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 8393.c; sourceTree = "<group>"; };
+		76089669286A345800323E89 /* 11021.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11021.c; sourceTree = "<group>"; };
+		7608966A286A34A300323E89 /* 11022.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11022.c; sourceTree = "<group>"; };
+		7608966B286A3F5F00323E89 /* 2480.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2480.c; sourceTree = "<group>"; };
 		767B673C27F9B4AF007EDB83 /* baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		767B673F27F9B4AF007EDB83 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		767B674627F9B4D8007EDB83 /* 1000.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1000.c; sourceTree = "<group>"; };
@@ -136,6 +144,12 @@
 		767B67E12807F3C4007EDB83 /* 1924.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1924.c; sourceTree = "<group>"; };
 		767B67F7280AAB18007EDB83 /* 4344.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4344.c; sourceTree = "<group>"; };
 		76861BFE28155071004004ED /* 1550.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1550.c; sourceTree = "<group>"; };
+		76D88F17286B06AA007643CA /* 4101.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4101.c; sourceTree = "<group>"; };
+		76D88F18286B0828007643CA /* 4999.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 4999.c; sourceTree = "<group>"; };
+		76D88F19286B08C4007643CA /* 8545.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 8545.c; sourceTree = "<group>"; };
+		76D88F1A286B0CE6007643CA /* 25304.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25304.c; sourceTree = "<group>"; };
+		76D88F1B286B1056007643CA /* 25238.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25238.c; sourceTree = "<group>"; };
+		76D88F1C286B68A1007643CA /* 1264.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1264.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -280,6 +294,20 @@
 				76089661285DBBCA00323E89 /* 2446.c */,
 				76089662285DBD6300323E89 /* 2702.c */,
 				76089663285DD09700323E89 /* 1181.c */,
+				76089664286A257200323E89 /* 1427.c */,
+				76089665286A262A00323E89 /* 11721.c */,
+				76089666286A295300323E89 /* 10953.c */,
+				76089667286A2EB800323E89 /* 10808.c */,
+				76089668286A33C300323E89 /* 8393.c */,
+				76089669286A345800323E89 /* 11021.c */,
+				7608966A286A34A300323E89 /* 11022.c */,
+				7608966B286A3F5F00323E89 /* 2480.c */,
+				76D88F17286B06AA007643CA /* 4101.c */,
+				76D88F18286B0828007643CA /* 4999.c */,
+				76D88F19286B08C4007643CA /* 8545.c */,
+				76D88F1A286B0CE6007643CA /* 25304.c */,
+				76D88F1B286B1056007643CA /* 25238.c */,
+				76D88F1C286B68A1007643CA /* 1264.c */,
 			);
 			path = baekjoon;
 			sourceTree = "<group>";
