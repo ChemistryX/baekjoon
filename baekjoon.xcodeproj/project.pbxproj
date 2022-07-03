@@ -164,6 +164,18 @@
 		76D88F28286CB555007643CA /* 5347.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 5347.c; sourceTree = "<group>"; };
 		76D88F29286CBD12007643CA /* 11653.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11653.c; sourceTree = "<group>"; };
 		76D88F2A286CC010007643CA /* 14563.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14563.c; sourceTree = "<group>"; };
+		76D88F2B286DF26F007643CA /* 2857.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2857.h; sourceTree = "<group>"; };
+		76D88F2C286DF26F007643CA /* 2857.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2857.c; sourceTree = "<group>"; };
+		76D88F2D286F667E007643CA /* 2530.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2530.c; sourceTree = "<group>"; };
+		76D88F2E286F6F2B007643CA /* 10984.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10984.c; sourceTree = "<group>"; };
+		76D88F2F2871ABC2007643CA /* 2525.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2525.c; sourceTree = "<group>"; };
+		76D88F302871BCCC007643CA /* 10828.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10828.c; sourceTree = "<group>"; };
+		76D88F312871BF7A007643CA /* 2440.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2440.c; sourceTree = "<group>"; };
+		76D88F3228721543007643CA /* 10817.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10817.c; sourceTree = "<group>"; };
+		76D88F3328721C35007643CA /* 10988.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10988.c; sourceTree = "<group>"; };
+		76D88F3428721F10007643CA /* 16916.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 16916.c; sourceTree = "<group>"; };
+		76D88F3528722137007643CA /* 2902.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2902.c; sourceTree = "<group>"; };
+		76D88F3628722AF8007643CA /* 15725.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 15725.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -336,6 +348,18 @@
 				76D88F28286CB555007643CA /* 5347.c */,
 				76D88F29286CBD12007643CA /* 11653.c */,
 				76D88F2A286CC010007643CA /* 14563.c */,
+				76D88F2B286DF26F007643CA /* 2857.h */,
+				76D88F2C286DF26F007643CA /* 2857.c */,
+				76D88F2D286F667E007643CA /* 2530.c */,
+				76D88F2E286F6F2B007643CA /* 10984.c */,
+				76D88F2F2871ABC2007643CA /* 2525.c */,
+				76D88F302871BCCC007643CA /* 10828.c */,
+				76D88F312871BF7A007643CA /* 2440.c */,
+				76D88F3228721543007643CA /* 10817.c */,
+				76D88F3328721C35007643CA /* 10988.c */,
+				76D88F3428721F10007643CA /* 16916.c */,
+				76D88F3528722137007643CA /* 2902.c */,
+				76D88F3628722AF8007643CA /* 15725.c */,
 			);
 			path = baekjoon;
 			sourceTree = "<group>";
